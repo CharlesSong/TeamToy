@@ -26,7 +26,12 @@ define( 'LR_API_UPGRADE_ABORT' , 10011 );
 /**
  * apiController class
  * TeamToy OpenAPI实现
- *
+ *lsjflsdjlfsjflsjf;asldjflsajflsdkjfs;ljdfslj
+ sdlkfjsdljf;sajfsd
+ lsjflsdjfsl;
+ lsjflsjdf;s
+ lja;jdfds;ljfldjflsjsalfjsla;jfasl;fjsdlfjas;ljfasljfs;al
+ sdfjsd;faj'faj;l
  * <code>
  * <?php
  * $api_url = 'http://api.teamtoy.net/index.php';
